@@ -18,13 +18,13 @@ Currently working with international teams on e-commerce solutions while pursuin
 
 ## Featured Projects
 
-### 🏭 Production Management System
+### Production Management System
 A comprehensive web application built from scratch serving 30+ employees
 - **Tech Stack**: Pure PHP, MySQL, jQuery, Google Sheets API
 - **Features**: Real-time inventory tracking, task management, automated reporting
 - **Impact**: Streamlined production workflows for entire company
 
-### 🏁 GoKarting Tournament System
+### GoKarting Tournament System
 Tournament management platform for annual school event
 - **Tech Stack**: CodeIgniter, MySQL
 - **Features**: Registration system, live scoring, real-time leaderboards
