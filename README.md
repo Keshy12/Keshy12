@@ -24,12 +24,6 @@ A comprehensive web application built from scratch serving 30+ employees
 - **Features**: Real-time inventory tracking, task management, automated reporting
 - **Impact**: Streamlined production workflows for entire company
 
-### GoKarting Tournament System
-Tournament management platform for annual school event
-- **Tech Stack**: CodeIgniter, MySQL
-- **Features**: Registration system, live scoring, real-time leaderboards
-- **Collaboration**: Built with team of 4 developers
-
 ## Current Focus
 
 - Building e-commerce solutions with **Magento 2** and **Laravel**
