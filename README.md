@@ -40,7 +40,7 @@ Tournament management platform for annual school event
 ## Let's Connect
 
 - 📧 Email: marcinstozek281@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/marcin-stozek](https://linkedin.com/in/marcin-stozek)
+- 💼 LinkedIn: [linkedin.com/in/marcin-stozek](https://www.linkedin.com/in/marcin-sto%C5%BCek-5b3a1b301/)
 - 📍 Location: Gliwice, Poland
 
 ---
